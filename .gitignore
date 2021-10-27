@@ -1,3 +1,4 @@
 /data/*
-/exp1/*
+/models/*
 *.pth
+/runs/*
